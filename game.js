@@ -32,6 +32,7 @@ else {
 	count++;
 }
 
+//comments rock
 
 console.log('Question 1 repsonse: ' + question1);
 
